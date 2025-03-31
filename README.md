@@ -1,6 +1,6 @@
 # BME450-Audiogram
-# Title
-“My super-cool project”
+# Hearing Loss Classification via Audiogram
+
 ## Team members
 Cade Magnuson (cademag), Pablo Torres (torrespj)
 ## Project decription
